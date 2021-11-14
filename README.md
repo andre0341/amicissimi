@@ -1,2 +1,2 @@
 # amicissimi
- progetti mtg tra amicissimi
+ progetti tra amicissimi
